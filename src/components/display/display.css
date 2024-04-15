@@ -1,0 +1,22 @@
+.containers {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px dashed;
+    border-radius: 5px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .question {
+    margin-bottom: 20px;
+  }
+  
